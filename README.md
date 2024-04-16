@@ -1,3 +1,11 @@
+# 实现一个 miniKoa
+
+- [x] 实现入门HTTP服务 
+- [x] 创建 miniKoa 类，实现 use 和 listen 方法
+- [x] 构建上下文
+- [x] 实现中间件机制
+- [x] 基于中间件实现路由机制
+
 ## 实现基于 Node 的入门 HTTP 服务
 
 ```js
@@ -372,3 +380,5 @@ class MiniRouter {
 
 module.exports = MiniRouter
 ```
+
+
